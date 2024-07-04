@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Praveen Bhathiya, a third-year undergraduate in Electrical and Information Engineering at the University of Ruhuna, Faculty of Engineering. My passion lies in cloud computing and system engineering, where I am constantly learning and applying new details to develop my career. I am a quick learner with a keen interest in exploring and integrating emerging technologies. I aspire to build a career focused on creating scalable, secure, and efficient cloud infrastructures, contributing to innovative projects, and driving technological advancements in the industry.
+I am Praveen Bhathiya, a third-year undergraduate in Electrical and Information Engineering at the University of Ruhuna, Faculty of Engineering. My passion lies in Devops, cloud computing and system engineering, where I am constantly learning and applying new details to develop my career. I am a quick learner with a keen interest in exploring and integrating emerging technologies. I aspire to build a career focused on creating scalable, secure, and efficient cloud infrastructures, contributing to innovative projects, and driving technological advancements in the industry.
 
 
 ## 🌐 Socials:
